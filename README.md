@@ -1,4 +1,7 @@
 # CSC3916_HW2
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0fd090f170aee461cd16?action=collection%2Fimport)
+
 Assignment Two
 Purpose
 The purpose of this assignment is to start working with Node.js and become more familiar with
@@ -123,4 +126,4 @@ https://devcenter.heroku.com/articles/config-vars
 
 https://devcenter.heroku.com/articles/getting-started-with-nodejs#introduction 
  
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0fd090f170aee461cd16?action=collection%2Fimport)
+
