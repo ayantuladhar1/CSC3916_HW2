@@ -1,6 +1,6 @@
 # CSC3916_HW2
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/0fd090f170aee461cd16?action=collection%2Fimport)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://god.postman.co/run-collection/e72d4e8b2ab6213fec78?action=collection%2Fimport)
 
 Assignment Two
 Purpose
